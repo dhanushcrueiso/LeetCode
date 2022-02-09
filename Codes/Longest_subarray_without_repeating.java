@@ -46,6 +46,6 @@ public int findPairs(int[] nums, int k) {
     }
     return cnt;
 }
-}
+}   
 
 
